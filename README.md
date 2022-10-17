@@ -9,7 +9,7 @@
 
 1. Click [SCAN](https://replit.com/@Kaveesha2006/DARK-BOT-QR#) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/Kaveeshasithum/DARK-NERO-BOT-MD-/fork)
+2. Click [FORK](https://github.com/Badboybhushitha/x_JAKI_MD/fork)
 
 2. After That Upload Session.json File
 
