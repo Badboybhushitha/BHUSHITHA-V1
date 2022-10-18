@@ -37,11 +37,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','447441437150']
-global.premium = ['27634090203','447441437150']
-global.botname = 'ZIM BOT INC'
-global.ownername ='DRIPS'
-global.packname = 'ZIM BOT INC'
+global.owner = ['94742427578']
+global.premium = ['94742427578']
+global.botname = 'xJAKI'
+global.ownername ='BHUSHITHA'
+global.packname = 'BHUSHITHA'
 global.quoted = 'https://www.youtube.com/c/DRIPSOFC'
 global.monayawal = '100000'
 global.darahawal = '100'
